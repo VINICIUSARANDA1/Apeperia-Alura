@@ -1,3 +1,3 @@
-# Apeperia-Alura
+# Apeperia 
 
-Foco principal do projeto foi da a maior acessibilidade possivel ao usuário.
+Projeto feito em HTML e CSS de uma startup chamada Apeperia, o foco principal foi deixar o site responsivo e com acessibilidade.
